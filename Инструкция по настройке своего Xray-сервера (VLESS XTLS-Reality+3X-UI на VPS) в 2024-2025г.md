@@ -937,6 +937,9 @@ docker-compose up -d
 - [i] [Видео](https://youtu.be/44BSRofsuBY) с канала zerodaily о настройке своего прокси с Vless-xtls-Reality через 3X-UI (проблемы с безопасностью).
 - [i] Простенькая [инструкция](https://pikabu.ru/story/nastroyka_luchshikh_vpn_protokolov_vless_s_xtlsreality_na_servere_xray_s_ustanovkoy_cherez_3xui_panel_10782662) ([html](Статьи_об_обходе_блокировок/3_Мануалы_по_настройке_proxy,vpn%20на%20VPS/Настройка%20лучших%20VPN%20протоколов!%20VLESS%20с%20XTLS-Reality%20на%20сервере%20XRay%20с%20установкой%20через%203X-UI%20панель%20_%20Пикабу%20(19.10.2024).html)) с Пикабу о настройке Vless-xtls-Reality через 3X-UI (есть проблемы с безопасностью).
 
+Дополнительно
+- [i] [Дискуссия про Xray core](https://github.com/XTLS/Xray-core/discussions/3518)
+  
 ---
 
 # Приложение 1 - Правила маршрутизации для клиента
